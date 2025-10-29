@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-10-27 18:24:27,https://jzb.wwkejishe.top/?id=578
+2025-10-29 18:23:15,https://jzb.wwkejishe.top/?id=578
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578
 CCTV-3,https://jzb.wwkejishe.top/?id=580
 CCTV-5,https://jzb.wwkejishe.top/?id=582
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-5+,https://jzb.wwkejishe.top/?id=583
 CCTV-6,https://jzb.wwkejishe.top/?id=584
 CCTV-8,https://jzb.wwkejishe.top/?id=586
@@ -15,8 +14,8 @@ CCTV-11,https://jzb.wwkejishe.top/?id=589
 CCTV-12,https://jzb.wwkejishe.top/?id=590
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://jzb.wwkejishe.top/?id=591
-CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV-14,https://jzb.wwkejishe.top/?id=592
 CCTV-15,https://jzb.wwkejishe.top/?id=593
@@ -32,8 +31,8 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 安徽卫视,https://jzb.wwkejishe.top/?id=612
 重庆卫视,https://jzb.wwkejishe.top/?id=607
-东方卫视,https://jzb.wwkejishe.top/?id=597
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
+东方卫视,https://jzb.wwkejishe.top/?id=597
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://jzb.wwkejishe.top/?id=622
