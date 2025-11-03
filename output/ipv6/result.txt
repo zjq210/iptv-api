@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-01 18:21:23,https://jzb.wwkejishe.top/?id=578
+2025-11-03 18:24:39,https://jzb.wwkejishe.top/?id=578
 
 📺央视频道,#genre#
 CCTV-1,https://jzb.wwkejishe.top/?id=578
@@ -27,8 +27,8 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 北京卫视,https://jzb.wwkejishe.top/?id=608
 湖北卫视,https://jzb.wwkejishe.top/?id=604
-黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 安徽卫视,https://jzb.wwkejishe.top/?id=612
 重庆卫视,https://jzb.wwkejishe.top/?id=607
 东方卫视,https://jzb.wwkejishe.top/?id=597
@@ -50,5 +50,5 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594
 四川卫视,https://jzb.wwkejishe.top/?id=610
 天津卫视,https://jzb.wwkejishe.top/?id=611
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
-新疆卫视,https://jzb.wwkejishe.top/?id=623
 新疆卫视,http://cc02.tv12.xyz/10.m3u8
+新疆卫视,https://jzb.wwkejishe.top/?id=623
