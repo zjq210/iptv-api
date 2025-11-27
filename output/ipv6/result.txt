@@ -1,52 +1,24 @@
 🕘️更新时间,#genre#
-2025-11-25 18:20:56,https://live.chinacert.cftest5.cn/mg/?id=631780532
+2025-11-27 18:20:32,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
-CCTV-2,https://live.chinacert.cftest5.cn/mg/?id=631780532
-CCTV-3,https://live.chinacert.cftest5.cn/mg/?id=624878271
-CCTV-4,https://live.chinacert.cftest5.cn/mg/?id=631780421
-CCTV-5,https://live.chinacert.cftest5.cn/mg/?id=641886683
-CCTV-5+,https://live.chinacert.cftest5.cn/mg/?id=641886773
-CCTV-6,https://live.chinacert.cftest5.cn/mg/?id=624878396
-CCTV-7,https://live.chinacert.cftest5.cn/mg/?id=673168121
-CCTV-8,https://live.chinacert.cftest5.cn/mg/?id=624878356
-CCTV-9,https://live.chinacert.cftest5.cn/mg/?id=673168140
-CCTV-10,https://live.chinacert.cftest5.cn/mg/?id=624878405
-CCTV-11,https://live.chinacert.cftest5.cn/mg/?id=667987558
-CCTV-12,https://live.chinacert.cftest5.cn/mg/?id=673168185
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,https://live.chinacert.cftest5.cn/mg/?id=608807423
-CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
-CCTV-14,https://live.chinacert.cftest5.cn/mg/?id=624878440
-CCTV-15,https://live.chinacert.cftest5.cn/mg/?id=673168223
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
-CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256
 
 📡卫视频道,#genre#
-广东卫视,https://live.chinacert.cftest5.cn/mg/?id=608831231
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-湖北卫视,https://live.chinacert.cftest5.cn/mg/?id=947472496
-黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-东方卫视,https://live.chinacert.cftest5.cn/mg/?id=651632648
+黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-东南卫视,https://live.chinacert.cftest5.cn/mg/?id=849116810
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-海南卫视,https://live.chinacert.cftest5.cn/mg/?id=947472502
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河南卫视,https://live.chinacert.cftest5.cn/mg/?id=790187291
-吉林卫视,https://live.chinacert.cftest5.cn/mg/?id=947472500
-江苏卫视,https://live.chinacert.cftest5.cn/mg/?id=623899368
-江西卫视,https://live.chinacert.cftest5.cn/mg/?id=783847495
-辽宁卫视,https://live.chinacert.cftest5.cn/mg/?id=630291707
-青海卫视,https://live.chinacert.cftest5.cn/mg/?id=947472506
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-陕西卫视,https://live.chinacert.cftest5.cn/mg/?id=738910838
 西藏卫视,http://cc02.tv12.xyz/9.m3u8
 新疆卫视,http://cc02.tv12.xyz/10.m3u8
