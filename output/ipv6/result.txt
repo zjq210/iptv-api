@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-29 18:23:11,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
+2026-03-31 18:45:36,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
 
 📺央视频道,#genre#
 CCTV-6,http://pull-hls-f11.douyincdn.com/media/stream-695550183385334444.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775212079&major_anchor_level=common&sign=df934e7ccd289742a9dcd9e796a21e73&t_id=037-20260327182759E3D672881FBE8BC84271-smZh1q
@@ -38,13 +38,11 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118948282823344812.m3u8?a
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
 河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
-河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
-吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
