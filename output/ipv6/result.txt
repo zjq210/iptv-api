@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-27 19:31:49,https://iptv.catvod.com/live.php?id=CCTV7
+2026-04-29 19:25:18,https://iptv.catvod.com/live.php?id=CCTV7
 
 📺央视频道,#genre#
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7
@@ -9,15 +9,14 @@ CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
-CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB
+CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695714359383425708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777628651&major_anchor_level=common&neq=1&sign=8b16cc180ce95c845219f8cccdcb9b5b&t_id=037-202604241744105DB92CAAEC4993C5B1D5-5dxGqL
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14%E5%B0%91%E5%84%BF
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
 CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118948282823344812.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773100588&major_anchor_level=common&sign=0a2a65437075fad16a3b5c028fce3936&t_id=037-202603030756275F53082918C89A46E14D-oDewtG
 
