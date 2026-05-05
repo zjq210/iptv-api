@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-03 18:46:03,https://iptv.catvod.com/live.php?id=CCTV7
+2026-05-05 19:11:41,https://iptv.catvod.com/live.php?id=CCTV7
 
 📺央视频道,#genre#
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7
@@ -27,6 +27,7 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118948282823344812.m3u8?a
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
+湖北卫视,https://gd202.tv1288.xyz/tsfile/live/1019_1.m3u8
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -38,7 +39,6 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118948282823344812.m3u8?a
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
 贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
-贵州卫视,https://gd202.tv1288.xyz/tsfile/live/1023_1.m3u8
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
 海南卫视,https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8
 河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
