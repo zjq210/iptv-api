@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-05-31 19:29:15,https://iptv.catvod.com/live.php?id=CCTV7
+2026-06-01 23:49:52,https://iptv.catvod.com/live.php?id=CCTV7
 
 📺央视频道,#genre#
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV8%E7%94%B5%E8%A7%86%E5%89%A7
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV9%E7%BA%AA%E5%BD%95
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99
-CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8
 CCTV-11,https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB
@@ -50,7 +49,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17%E5%86%9C%E4%B8%9A%E5%86%9C%E6
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
 四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0
-四川卫视,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288
 深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0
