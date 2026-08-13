@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-11 18:47:05,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
+2026-08-13 18:58:18,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
 
 📺央视频道,#genre#
 CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com
@@ -9,6 +9,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+东南卫视,https://live.chinacert.cftest5.cn/cnmg/live/849116810
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
